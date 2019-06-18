@@ -17,7 +17,8 @@ age int
 
 CREATE TABLE pledges(
 id INTEGER PRIMARY KEY,
-amount INT
+amount INT,
+user_id TEXT
 
 
 );
