@@ -1,5 +1,5 @@
 CREATE TABLE (
-id INT PRIMARY KEY,
+id INTEGER PRIMARY KEY,
 title TEXT,
 catorgory TEXT,
 funding_goal INT,
