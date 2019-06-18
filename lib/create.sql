@@ -14,3 +14,9 @@ age int
 
 
 );
+
+CREATE TABLE pledges(
+id INTEGER PRIMARY KEY,
+
+
+);
