@@ -1,5 +1,6 @@
 CREATE TABLE (
-id 
+id INT PRIMARY KEY,
+
 
 
 
