@@ -3,7 +3,8 @@ id INT PRIMARY KEY,
 title TEXT,
 catorgory TEXT,
 funding_goal INT,
-start_date 
+start_date DATE,
+
 
 
 
